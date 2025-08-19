@@ -1,6 +1,7 @@
 # 📊 Netflix Business Case Study - Exploratory Data Analysis (EDA)
 
-## 🔍 Overview This case study analyzes Netflix’s business trends through Exploratory Data Analysis (EDA), providing valuable insights into content distribution, viewer preferences, and strategic growth areas. By working through this project, data analysts gain hands-on experience with Python-based data visualization and statistical analysis.
+## 🔍 Overview 
+This case study analyzes Netflix’s business trends through Exploratory Data Analysis (EDA), providing valuable insights into content distribution, viewer preferences, and strategic growth areas. By working through this project, data analysts gain hands-on experience with Python-based data visualization and statistical analysis.
 
 ## 🚀 Business Context
 
@@ -69,15 +70,3 @@ Pandas & NumPy (Data Processing)
 Matplotlib & Seaborn (Data Visualization)
 
 Jupyter Notebook (Development)
-
-## 🚀 How to Use Clone this repository and run the Jupyter Notebook to explore Netflix’s business trends:
-
-bash
-git clone https://github.com/YOUR_USERNAME/Netflix_EDA.git
-cd Netflix_EDA
-jupyter notebook
-## 👥 Contributor
-
-[Rahil] - Data Analysis & Visualization
-
-## 📢 Feedback & Contributions Have insights or suggestions? Open a pull request and contribute! 🎬
